@@ -13,7 +13,7 @@
         android:icon="@drawable/list"/>
 
     <item
-        android:id="@+id/ic_category"
+        android:id="@+id/category"
         android:title="@string/category"
         android:icon="@drawable/ic_category"/>
 

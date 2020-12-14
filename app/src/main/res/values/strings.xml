@@ -5,6 +5,11 @@
     <string name="myList">My List</string>
     <string name="category">Category</string>
     <string name="settings">Settings</string>
+
+    <string name="home_txt">Home Fragment</string>
+    <string name="myList_txt">My List Fragment</string>
+    <string name="category_txt">Category Fragment</string>
+    <string name="settings_txt">Settings Fragment</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
